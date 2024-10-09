@@ -5,7 +5,7 @@ Formação Microsoft AZ-900 Certification
 
 > É o fornecimento de serviços de computação pela internet, habilitando inovações mais rápidas, recursos flexíveis e economias de escala.
 
-#Tipos de Nuvem
+# Tipos de Nuvem
 **Nuvem privada**: 
 
     - as organizações criam um ambiente em nuvem e seu datacenter.
@@ -23,18 +23,18 @@ Formação Microsoft AZ-900 Certification
     - combina elementos de nuvens privadas e públicas, permitindo que dados e aplicativos sejam compartilhados entre elas. 
     - Esse modelo oferece às organizações mais flexibilidade.
 
-#Formas de gastos
+# Formas de gastos
 
 **Capex** (Capital Expenditure) e **Opex** (Operational Expenditure) são dois tipos principais de despesas que as empresas enfrentam ao administrar seus negócios, especialmente em áreas como TI e infraestrutura. 
 
-##Características do **Capex**:
+## Características do **Capex**:
   
 > Investimento de longo prazo.
 > Depreciação ao longo do tempo (no caso de ativos tangíveis).
 > Impacta a capacidade de crescimento e expansão da empresa.
 > Exige aprovação de orçamento, devido ao custo elevado inicial.
 
-##Características do **Opex**:
+## Características do **Opex**:
 
 > Despesas recorrentes e de curto prazo.
 > Deduzido diretamente do lucro, afetando o fluxo de caixa da empresa imediatamente.
